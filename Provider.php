@@ -1,6 +1,6 @@
 <?php
 
-namespace indimiapp\Apple;
+namespace SocialiteProviders\Apple;
 
 use Firebase\JWT\JWK;
 use GuzzleHttp\Client;
